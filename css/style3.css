@@ -1,0 +1,195 @@
+html{
+	width: 100%;
+}
+
+* {
+	box-sizing: border-box;
+}
+p,h1,h2,h3,h4,h4,h6,div,span {
+	font-family:PingFangSC-Regular,sans-serif,Microsoft JhengHei;	
+}
+
+nav{
+	display:inline;
+}
+.navbar-brand img {
+	height: 50px;
+	float:left;
+
+}
+.navbar-brand h6{
+	padding-top: 12.5px;
+	font-weight: bold;
+}
+
+
+@media (min-width: 768px) {
+/*nav選單*/
+	.navbar{
+	padding-left:50px!important;
+	padding-right:50px!important; 
+}
+}
+.banner {
+	margin-top: 76px;
+}
+.banner .container-fluid {
+	padding:0!important;
+}
+
+.main{
+	margin-right: 102px;
+	margin-left: 102px;
+}
+
+.title1{
+	margin-top: 130px;
+	margin-bottom: 50px;
+	color: #D95644;
+	text-align: center;
+}
+.news1{
+	display: flex;
+    flex-direction: row;
+}
+.imgA{
+    padding-right: 30px;  	
+}
+
+.p1{
+	font-size: 24px;
+}
+.read{
+  text-align: right;
+}
+.read h5{
+	display:inline;
+	font-weight: bold;
+	font-style:italic;
+}
+
+.news2{
+	padding-top: 80px;
+	display: flex;
+    flex-direction: row;
+}
+.imgB{
+    padding-right: 30px;
+}
+.p2{
+	font-size: 24px;
+}
+.read2{
+	padding:10px;
+	text-align: right;
+}
+
+.read2 h5{
+	display:inline;
+	font-weight: bold;
+	font-style:italic;
+}
+
+.news3{
+	padding-top: 80px;
+	display: flex;
+    flex-direction: row;
+}
+.imgC{
+    padding-right: 30px;
+}
+.p3{
+	font-size: 24px;
+}
+.read3{
+	padding:10px;
+	text-align: right;
+}
+
+.read3 h5{
+	display:inline;
+	font-weight: bold;
+	font-style:italic;
+}
+
+.news4{
+	padding-top: 80px;
+	display: flex;
+    flex-direction: row;
+}
+.imgD{
+    padding-right: 30px;
+}
+.p4{
+	font-size: 24px;
+}
+.read4{
+	padding:10px;
+	text-align: right;
+}
+
+.read4 h5{
+	display:inline;
+	font-weight: bold;
+	font-style:italic;
+}
+
+.news5{
+	padding-top: 80px;
+	display: flex;
+    flex-direction: row;
+}
+.imgE{
+    padding-right: 30px;
+}
+.p5{
+	font-size: 24px;
+}
+
+.read5{
+	padding:10px;
+	text-align: right;
+}
+
+.read5 h5{
+	display:inline;
+	font-weight: bold;
+	font-style:italic;
+}
+
+
+.news6{
+	padding-top: 80px;
+	display: flex;
+    flex-direction: row;
+}
+.imgF{
+    padding-right: 30px;
+}
+.p6{
+	font-size: 24px;
+}
+.read6{
+	padding:10px;
+	text-align: right;
+}
+
+.read6 h5{
+	display:inline;
+	font-weight: bold;
+	font-style:italic;
+}
+
+.line{
+		padding-top: 50px;
+	border: none;border-bottom:2px dotted gray
+}
+footer span{
+
+	font-size: 10px;
+}
+footer{
+		text-align: center;
+		margin-bottom: 20px;
+}
+
